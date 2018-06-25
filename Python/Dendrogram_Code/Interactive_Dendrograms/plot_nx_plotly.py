@@ -13,6 +13,7 @@ def plot_nx_plotly(z, plot_connectors = True, highlight_connectors = None, prog 
             Postsynapses are Blue
     
             highlight_connectors : A list of connector_ids that are of interest (CoIs = connectors of interest).
+            e.g. HCs = [Connector_id1, Connector_id2]
             
             These will be larger than the other connectors and in purple
     
