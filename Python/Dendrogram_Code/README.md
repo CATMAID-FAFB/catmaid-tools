@@ -79,7 +79,7 @@ NetworkX, so there is no need to import Graphviz/PyGraphviz.
 
     >>> x.downsample( 100000 , preserve_cn_treenodes = True )
     
-**THE PLOT_NX FUNCTION IS LOCATED IN THE OTHER FILE OF THIS FOLDER**
+**THE PLOT_NX FUNCTION IS LOCATED IN THE OTHER FILE OF THIS FOLDER (Top of the page, Plot_nx.py)**
     
 **COPY AND PASTE THE FUNCTION INTO A NEW LINE/CELL OF YOUR PYTHON ENVIRONMENT, THEN RUN:**
 
