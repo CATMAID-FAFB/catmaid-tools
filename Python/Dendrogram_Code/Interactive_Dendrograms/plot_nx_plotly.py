@@ -213,8 +213,6 @@ def plot_nx_plotly(z, plot_connectors = True, highlight_connectors = None, prog 
                     HC_trace['text'].append(HC_trace_info)
                         
     
-    VM2_neuron.connectors[VM2_neuron.connectors.treenode_id == 585959].connector_id.values[0]
-    
     print('Creating Plotly Graph')
     
     fig = Figure(data=Data([edge_trace, node_trace, soma_trace, presynapse_connector_trace, postsynapse_connector_trace, HC_trace]),
