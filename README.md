@@ -1,6 +1,6 @@
 # CATMAID tools
-Overview of packages and scripts for the analysis of 
-[CATMAID](http://catmaid.readthedocs.io/en/stable/) data contributed by the 
+Overview of packages and scripts for the analysis of
+[CATMAID](http://catmaid.readthedocs.io/en/stable/) data contributed by the
 FAFB community.
 
 ### Contributing
@@ -36,7 +36,7 @@ and splitting a neuron into different compartments
 
 ### [tracerutils](https://github.com/fmlove/tracerutils)
 R package with useful functions for EM tracers.  Provides shortcuts for common
-tasks like plotting neurons from CATMAID, randomly sampling synapses, and 
+tasks like plotting neurons from CATMAID, randomly sampling synapses, and
 checking for duplicate connectors. *Fiona Love, WT UK*.
 
 ### Scripts
@@ -49,8 +49,8 @@ checking for duplicate connectors. *Fiona Love, WT UK*.
 Python 3 package to fetch data from CATMAID server and analyse neuron anatomy
 and connectivity. Features include: fetch data from CATMAID, 2D and 3D plotting
 of neurons, virtual neuron surgery (cutting, stitching, pruning, rerooting, etc),
-R bindings (e.g. for libraries nat, nat.nblast and elmr), interface with 
-Blender 3D, import/export from/to SWC, load and annotate image data. 
+R bindings (e.g. for libraries nat, nat.nblast and elmr), interface with
+Blender 3D, import/export from/to SWC, load and annotate image data.
 *Philipp Schlegel, WT UK*.
 
 ### [catbot](https://github.com/flyconnectome/catbot)
@@ -63,4 +63,5 @@ Plugin for [Blender 3D](https://www.blender.org/) that allows fetching data
 from CATMAID server for high-quality renderings. *Philipp Schlegel, WT UK*.
 
 ### Scripts
-- [Neato dendrograms of neurons](https://github.com/flyconnectome/catmaid-tools/blob/master/Python/Dendrogram_Code.py). *Markus Pleijzier, WT UK*.
+- [Neato dendrograms of neurons](https://github.com/CATMAID-FAFB/catmaid-tools/tree/master/Python/Dendrogram_Code). *Markus Pleijzier, WT UK*.
+- [Reconstruct a neuron's connectivity history](https://github.com/CATMAID-FAFB/catmaid-tools/tree/master/Python/connectivity_history.ipynb). *Philipp Schlegel, WT UK*
