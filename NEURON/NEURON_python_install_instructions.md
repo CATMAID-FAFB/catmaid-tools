@@ -59,10 +59,10 @@ simply use your version numbers instead of 19 & 7.6.
     
     $ cd
 
-    $ cd $N/nrn-7.5
+    $ cd $N/nrn-7.6
 
     $ ./configure --prefix=’/Users/name/neuron/’ --with-iv=/Users/name/neuron/iv-19 --with-nrnpython
-    
+    ^^ensure that you have straight line apostrophe marks and not slanted ones if you copy and paste this code
     
 
     $ make
