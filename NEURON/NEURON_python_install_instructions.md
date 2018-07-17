@@ -22,7 +22,7 @@ Other instructions are also available:
 
 1.	In your home directory, create a folder called ‘neuron’
 
-1.	Place both of the tar.gz files in this neuron folder and double click them
+1.	Place both of the tar.gz files in this neuron folder and **double click them**
 
 1.	Open the terminal
 
