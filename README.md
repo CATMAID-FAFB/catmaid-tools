@@ -66,3 +66,4 @@ from CATMAID server for high-quality renderings. *Philipp Schlegel, WT UK*.
 - [Neato dendrograms of neurons](https://github.com/CATMAID-FAFB/catmaid-tools/tree/master/Python/Dendrogram_Code). *Markus Pleijzier, WT UK*.
 - [Reconstruct a neuron's connectivity history](https://github.com/CATMAID-FAFB/catmaid-tools/tree/master/Python/connectivity_history.ipynb). *Philipp Schlegel, WT UK*
 - [NEURON as a Python module installation guide](https://github.com/CATMAID-FAFB/catmaid-tools/blob/master/NEURON/NEURON_python_install_instructions.md). *Markus Pleijzier, WT UK*
+- [Animate 3D neuron into 2D dendrogram](https://github.com/CATMAID-FAFB/catmaid-tools/tree/master/Python/animate_neuron_dendrogram.ipynb). *Philipp Schlegel, WT UK*
